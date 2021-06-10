@@ -3,7 +3,7 @@
     Several Windows 10 adjustments
      - no more, no less
 .NOTES
-    Creator: r3amped@gmail.com
+    Creator: github.com/andershaga
     Created: 2021-06-01
     Changed: 2021-06-10
 #>
