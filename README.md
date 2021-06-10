@@ -8,6 +8,22 @@ _Recommended use is after first logon on a fresh install_
 - Tested on Windows 10 Home/Pro (21H1)
 - Run with elevated privileges with normal user account
 
+Higlights
+- Disable automatic updates
+- Disable windows search
+- Disable firewall
+- Disable cortana
+- Disable game dvr
+- Disable desktop effects
+- Disable tips and hints
+- Clean start menu and taskbar
+- Remove installed apps (onedrive++)
+- Remove autoruns
+- Stop sending diagnostic data
+- Active best powerplan available
+- Hide non-critical notifications
+- Optional apps
+
 Before
 ![Before](https://raw.githubusercontent.com/r3amped/w10fix/main/before.png)
 After
