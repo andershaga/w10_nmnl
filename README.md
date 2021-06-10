@@ -1,7 +1,7 @@
 # w10fix
 Windows 10 - No more, no less
 
-Clean slate for Windows 10 installations. Disables and removes annoying things.
+Personlized clean slate for Windows 10 installations. Removes and disables a few things that you can bring back if you need.
 
 _Recommended use is after first logon on a fresh install_
 
