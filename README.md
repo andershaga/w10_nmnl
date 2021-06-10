@@ -5,7 +5,7 @@ Clean slate for Windows 10 installations. Disables and removes annoying things.
 Recommended use is after first logon on a fresh install.
 
 - Tested on Windows 10 Home/Pro (21H1)
-- Run with elevetad privileges with normal user account
+- Run with elevated privileges with normal user account
 
 Before
 ![Before](https://raw.githubusercontent.com/r3amped/w10fix/main/before.png)
