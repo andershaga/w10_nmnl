@@ -8,7 +8,7 @@ _Recommended use is after first logon on a fresh install_
 - Tested on Windows 10 Home/Pro (21H1)
 - Run with elevated privileges with normal user account
 
-Higlights
+Highlights
 - Disable automatic updates
 - Disable windows search
 - Disable firewall
