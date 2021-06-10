@@ -57,6 +57,7 @@ BEGIN
             'Show cortana button,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ShowCortanaButton,DWord,0'
             'Show search box,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Search,SearchboxTaskbarMode,DWord,0'
             'Hide meet now,HKCU:\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer,HideSCAMeetNow,DWord,1'
+            'Turn off news and interests,HKCU:\Software\Microsoft\Windows\CurrentVersion\Feeds,ShellFeedsTaskbarViewMode,DWord,2'
             'Use light theme for apps,HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize,AppsUseLightTheme,DWord,0'
             'Use light theme for system,HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize,SystemUsesLightTheme,DWord,0'
 
