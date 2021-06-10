@@ -1,4 +1,3 @@
-# w10fix
 ### Windows 10 - No more, no less
 
 Personalized clean slate for Windows 10 installations. Removes and disables a few things that you can bring back if you need.
