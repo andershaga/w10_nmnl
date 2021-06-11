@@ -4,8 +4,6 @@
      - no more, no less
 .NOTES
     Creator: github.com/andershaga
-    Created: 2021-06-01
-    Changed: 2021-06-10
 #>
 
 #Requires -RunAsAdministrator
@@ -42,7 +40,7 @@ BEGIN
             'Automatically wake up the system to install scheduled updates,HKLM:\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU,AUPowerManagement,DWord,0'
             'No auto-restart with logged on users for scheduled automatic updates installations,HKLM:\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU,NoAutoRebootWithLoggedOnUsers,DWord,1'
 
-			# UAC (level 2)
+            # UAC (level 2)
             'Consent Prompt Behavior Admin,HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,ConsentPromptBehaviorAdmin,DWord,5'
             'Consent Prompt Behavior User,HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,ConsentPromptBehaviorUser,DWord,3'
             'Enable Installer Detection,HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System,EnableInstallerDetection,DWord,1'
