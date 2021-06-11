@@ -1,5 +1,5 @@
 ## Windows 10 - No more, no less
-> Personalized clean slate for Windows 10. Removes and disables a few things that you can bring back if you need.
+> Personalized clean slate for Windows 10. Disables a few things that you can bring back if you need.
 
 _Recommended use is after first logon on a fresh install_
 
