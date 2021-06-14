@@ -227,7 +227,7 @@ BEGIN
 
         write-host " Restarting explorer"
         Stop-Process -Name 'explorer'
-        do {Start-Sleep -Milliseconds 500} until ((Get-Process -Name 'explorer').PriorityClass -eq 'Normal')
+        do {Start-Sleep -Milliseconds 500} until ((Get-Process -Name 'explorer' -ea 0).PriorityClass -eq 'Normal')
 
         write-host " Cleaning up"
         Remove-ItemProperty -Path $regPath -Name 'StartLayoutFile' -Force | Out-Null
