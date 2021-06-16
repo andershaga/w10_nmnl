@@ -64,6 +64,7 @@ BEGIN
             'Explorer shows recent files,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer,ShowRecent,DWord,0'
             'Explorer start in my computer,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,LaunchTo,DWord,1'
             'Explorer use check boxes,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,AutoCheckSelect,DWord,0'
+	    'Explorer disable automatic folder type,HKCU:\SOFTWARE\Classes\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell,FolderType,String,NotSpecified'
             'Hide file extensions,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,HideFileExt,DWord,0'
             'Automatically hide scrollbars,HKCU:\Control Panel\Accessibility,DynamicScrollbars,DWord,0'
             'Use transparency effects,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize,EnableTransparency,DWord,0'
