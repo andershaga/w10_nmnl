@@ -18,7 +18,7 @@ _Recommended use is after first logon on a fresh install_
 - Remove installed apps (onedrive++)
 - Remove autoruns
 - Stop sending diagnostic data
-- Active best powerplan available
+- Activate best powerplan available
 - Hide non-critical notifications
 - Optional apps
 
