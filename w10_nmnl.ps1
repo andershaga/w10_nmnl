@@ -126,8 +126,8 @@ BEGIN
             'Show thumbnails instead of icons,HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced,IconsOnly,DWord,1'
             'Show translucent selection rectangle,HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ListviewAlphaSelect,DWord,0'
             'Show window contents while dragging,HKCU:\Control Panel\Desktop,DragFullWindows,String,0'
-            'Smooth edges of screen fonts,HKCU:\Control Panel\Desktop,FontSmoothing,String,0'
-            'Use drop shadows for icon labels on the desktop,HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ListviewShadow,DWord,0'
+            'Smooth edges of screen fonts,HKCU:\Control Panel\Desktop,FontSmoothing,String,1'
+            'Use drop shadows for icon labels on the desktop,HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced,ListviewShadow,DWord,1'
 
         ) | ConvertFrom-Csv -Delimiter ',' -Header DESCRIPTION,PATH,NAME,TYPE,VALUE
 
