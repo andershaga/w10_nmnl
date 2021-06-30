@@ -34,7 +34,6 @@ BEGIN
             'Show reminders and incoming voip calls on the lock screen,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Notifications\Settings,NOC_GLOBAL_SETTING_ALLOW_CRITICAL_TOASTS_ABOVE_LOCK,DWord,0'
             'Allow notifications to play sounds,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Notifications\Settings,NOC_GLOBAL_SETTING_ALLOW_NOTIFICATION_SOUND,DWord,0'
             'Show notifications on the lock screen,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Notifications\Settings,NOC_GLOBAL_SETTING_ALLOW_TOASTS_ABOVE_LOCK,DWord,0'
-	    'Windows Welcome Experience,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager,SubscribedContent-310093Enabled,Dword,0'
 	    'Suggest ways I can finish setting up my device,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\UserProfileEngagement,ScoobeSystemSettingEnabled,Dword,0'
 
             # Updates
