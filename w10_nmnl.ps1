@@ -72,7 +72,7 @@ BEGIN
             'Use transparency effects,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize,EnableTransparency,DWord,0'
             'Do not show windows tips,HKLM:\SOFTWARE\Policies\Microsoft\Windows\CloudContent,DisableSoftLanding,DWord,1'
             'Do not display the lock screen,HKLM:\SOFTWARE\Policies\Microsoft\Windows\Personalization,NoLockScreen,DWord,1'
-            'Disable logon background image,HKLM:\Software\Policies\Microsoft\Windows\System,DisableLogonBackgroundImage,DWord,1'
+            'Disable logon background image,HKLM:\Software\Policies\Microsoft\Windows\System,DisableLogonBackgroundImage,DWord,0'
             'Display recently opened programs in the start menu,HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced,Start_TrackDocs,DWord,0'
             'Remove recently added list from start menu,HKCU:\SOFTWARE\Policies\Microsoft\Windows\Explorer,HideRecentlyAddedApps,DWord,1'
             'Remove sleep button,HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FlyoutMenuSettings,ShowSleepOption,DWord,0'
