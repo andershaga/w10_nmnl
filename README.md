@@ -28,4 +28,4 @@ Before
 ![Before](https://raw.githubusercontent.com/r3amped/w10fix/main/before.png)
 
 After
-![Before](https://raw.githubusercontent.com/r3amped/w10fix/main/after.png)
+![After](https://raw.githubusercontent.com/r3amped/w10fix/main/after.png)
